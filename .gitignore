@@ -1,0 +1,17 @@
+# Build artifacts
+/output/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.log
+*.tmp
+
+# Editor
+.vscode/
+*.code-workspace
+
+# OS
+Thumbs.db
+Desktop.ini
