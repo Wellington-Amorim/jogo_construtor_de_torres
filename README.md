@@ -1,5 +1,8 @@
 # Construtor de Torres (Windows)
 
+<img width="700" alt="Captura de tela 2025-10-30 143458" src="https://github.com/user-attachments/assets/1f726c40-be70-4620-b562-afae9b446a22" />
+
+
 Jogo didático de SO com dois clientes acessando um servidor, compartilhando estado via memória mapeada e exclusão mútua por mutex.
 
 ## Compilação (MinGW)
